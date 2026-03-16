@@ -47,7 +47,7 @@ growing while exploring different opportunities in business and finance.
 
 <h2>Contact</h2>
 
-<p>Email: <a href="mailto:greha@example.com">greha@example.com</a></p>
+<p>Email: <a href="mailto:greha@example.com">abhi6nav@gmail.com</a></p>
 <p>LinkedIn: <a href="https://www.linkedin.com">LinkedIn Profile</a></p>
 
 </body>
