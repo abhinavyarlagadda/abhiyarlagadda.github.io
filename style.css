@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;   /* custom typography */
+    background-color: #f4f4f4;        /* background color scheme */
+    margin: 40px;                     /* spacing / layout */
+}
+
+h1 {
+    color: #2c3e50;                   /* heading color */
+}
+
+h2 {
+    color: #34495e;
+}
+
+nav a {
+    color: #1a73e8;                   /* link color */
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+img {
+    margin-top: 15px;
+    border-radius: 6px;
+}
