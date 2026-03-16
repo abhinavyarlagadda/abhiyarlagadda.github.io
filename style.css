@@ -1,6 +1,7 @@
 body {
     font-family: Calibri, sans-serif;   /* custom typography */
     background-color: #dff5e1;        /* background color scheme */
+    background-color: red;
     margin: 40px;                     /* spacing / layout */
 }
 
